@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-template",
+  "name": "geolocation-with-next-and-cf-pages",
   "build": {
     "dockerfile": "Dockerfile",
     // Update 'VARIANT' to pick a Node version: 18, 16, 14.
